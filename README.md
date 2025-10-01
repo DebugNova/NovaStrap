@@ -17,9 +17,11 @@ Made by **Nova**
 
 ## 📥 Download
 
-**[Download NovaStrap.exe](dist/NovaStrap.exe)** *(Latest Release)*
+### **[⬇️ Download NovaStrap.exe](https://github.com/DebugNova/NovaStrap/releases/latest/download/NovaStrap.exe)**
 
-Simply download and run - no installation required!
+*Latest Version • Windows • No Installation Required*
+
+> **Alternative:** Go to [Releases](https://github.com/DebugNova/NovaStrap/releases) to download previous versions
 
 ---
 
@@ -39,7 +41,7 @@ Simply download and run - no installation required!
 
 ### For Users (Download & Run)
 
-1. **Download** `NovaStrap.exe` from the [releases](dist/NovaStrap.exe)
+1. **Download** `NovaStrap.exe` from the [releases page](https://github.com/DebugNova/NovaStrap/releases)
 2. **Run** the executable (no installation needed)
 3. **Paste** your FFlags JSON into the editor
 4. **Click** "Apply FFlags" to save
