@@ -1,0 +1,36 @@
+# Build artifacts
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Icon files (generated)
+*.ico
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+venv/
+env/
+
+# Backups
+*.bak
+*.backup
+backup_*/
